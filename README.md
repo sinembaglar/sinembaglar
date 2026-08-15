@@ -1,4 +1,4 @@
-# Hi, I'm Sinem 👋
+# Hi, I'm Sinem Bağlar 👋
 
 Frontend-focused **Full Stack Web Development** student at Workintech, building React
 applications and **open to junior frontend / full stack roles**.
@@ -50,7 +50,7 @@ mobile/desktop layouts.
 
 ---
 
-# Merhaba, ben Sinem 👋
+# Merhaba, ben Sinem Bağlar 👋
 
 Workintech'te **Full Stack Web Development** eğitimi alıyorum, frontend odaklı
 çalışıyorum ve **junior frontend / full stack pozisyonları için iş arıyorum**.
