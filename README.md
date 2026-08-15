@@ -1,13 +1,13 @@
 # Hi, I'm Sinem Bağlar 👋
 
-Frontend-focused **Full Stack Web Development** student at Workintech, building React
-applications and **open to junior frontend / full stack roles**.
+Frontend-focused developer in Workintech's **Full Stack Web Developer** program,
+building React applications and **open to junior frontend / full stack roles**.
 
-- 🎓 Full Stack Web Development at Workintech
+- 🎓 Full Stack Web Developer program at Workintech
 - 🔭 Currently building a multi-page e-commerce platform as my graduation project
 - 🌱 Deepening React, Redux and end-to-end testing with Cypress
 - 💼 Open to junior frontend / full stack positions
-- 📫 Reach me at **sinembglr@gmail.com**
+- 📫 Reach me at **sinembglr@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/sinem-ba%C4%9Flar-%C3%B6rs-a24670100/)
 
 ## Tech Stack
 
@@ -45,6 +45,7 @@ mobile/desktop layouts.
 
 ## Let's connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinem-ba%C4%9Flar-%C3%B6rs-a24670100/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sinembglr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sinembaglar)
 
@@ -52,14 +53,14 @@ mobile/desktop layouts.
 
 # Merhaba, ben Sinem Bağlar 👋
 
-Workintech'te **Full Stack Web Development** eğitimi alıyorum, frontend odaklı
-çalışıyorum ve **junior frontend / full stack pozisyonları için iş arıyorum**.
+Workintech **Full Stack Web Developer** programındayım, frontend odaklı çalışıyorum
+ve **junior frontend / full stack pozisyonları için iş arıyorum**.
 
-- 🎓 Workintech Full Stack Web Development
+- 🎓 Workintech Full Stack Web Developer programı
 - 🔭 Bitirme projem olarak çok sayfalı bir e-ticaret platformu geliştiriyorum
 - 🌱 React, Redux ve Cypress ile uçtan uca test konularında derinleşiyorum
 - 💼 Junior frontend / full stack pozisyonlarına açığım
-- 📫 İletişim: **sinembglr@gmail.com**
+- 📫 İletişim: **sinembglr@gmail.com** · [LinkedIn](https://www.linkedin.com/in/sinem-ba%C4%9Flar-%C3%B6rs-a24670100/)
 
 ## Öne çıkan proje
 
@@ -81,3 +82,9 @@ için ayrı tasarımlar.
 | [imdb-film-veritabani](https://github.com/sinembaglar/imdb-film-veritabani) | Film veritabanı — listeleme, detay görüntüleme, ekleme/silme ve favori yönetimi | React, Redux | [Demo](https://imdb-film-veritabani.vercel.app) |
 | [favori-filmler-redux](https://github.com/sinembaglar/favori-filmler-redux) | Film arşivini gezip tarayıcıda kalıcı bir izleme listesi oluşturma | React, Redux | [Demo](https://favori-filmler-redux.vercel.app) |
 | [login-e2e-test](https://github.com/sinembaglar/login-e2e-test) | Uçtan uca testlerle doğrulanan giriş akışı | React, Cypress | — |
+
+## İletişim
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinem-ba%C4%9Flar-%C3%B6rs-a24670100/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sinembglr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sinembaglar)
