@@ -70,6 +70,7 @@ A REST API for a Twitter-like application with tweets, comments, likes and retwe
 
 | Project | What it does | Stack | Live |
 | --- | --- | --- | --- |
+| [fsweb-s8-challenge-pizza](https://github.com/sinembaglar/fsweb-s8-challenge-pizza) | Pizza ordering app with a validated order form, live price calculation and an order confirmation page filled from the API response | React, React Router, Axios, Cypress | — |
 | [book-store](https://github.com/sinembaglar/book-store) | Book shopping app where all state was migrated from prop drilling to the Context API, with the cart persisted in `localStorage` | React, Context API, styled-components | [Demo](https://book-store-sinem3.vercel.app) |
 | [imdb-film-veritabani](https://github.com/sinembaglar/imdb-film-veritabani) | Movie database with listing, detail views, adding/removing entries and favourite management | React, Redux, Tailwind CSS | [Demo](https://imdb-film-veritabani.vercel.app) |
 | [favori-filmler-redux](https://github.com/sinembaglar/favori-filmler-redux) | Browse a film archive and build a watchlist that persists in the browser | React, Redux, Tailwind CSS | [Demo](https://favori-filmler-redux.vercel.app) |
@@ -115,6 +116,7 @@ Tweet, yorum, beğeni ve retweet özelliklerini içeren, Twitter benzeri bir uyg
 
 | Proje | Ne yapıyor | Teknolojiler | Canlı |
 | --- | --- | --- | --- |
+| [fsweb-s8-challenge-pizza](https://github.com/sinembaglar/fsweb-s8-challenge-pizza) | Doğrulamalı sipariş formu, anlık fiyat hesabı ve API yanıtıyla dolan onay sayfası içeren pizza sipariş uygulaması | React, React Router, Axios, Cypress | — |
 | [book-store](https://github.com/sinembaglar/book-store) | Tüm state'in prop drilling'den Context API'ye taşındığı, sepeti `localStorage`'da saklayan kitap alışveriş uygulaması | React, Context API, styled-components | [Demo](https://book-store-sinem3.vercel.app) |
 | [imdb-film-veritabani](https://github.com/sinembaglar/imdb-film-veritabani) | Listeleme, detay görüntüleme, ekleme/silme ve favori yönetimi içeren film veritabanı | React, Redux, Tailwind CSS | [Demo](https://imdb-film-veritabani.vercel.app) |
 | [favori-filmler-redux](https://github.com/sinembaglar/favori-filmler-redux) | Film arşivini gezip tarayıcıda kalıcı bir izleme listesi oluşturma | React, Redux, Tailwind CSS | [Demo](https://favori-filmler-redux.vercel.app) |
